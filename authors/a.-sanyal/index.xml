@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Sanyal on G. Ortiz-Jiménez</title>
+    <link>https://gortizji.github.io/authors/a.-sanyal/</link>
+    <description>Recent content in A. Sanyal on G. Ortiz-Jiménez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 12:22:44 +0200</lastBuildDate>
+    
+	    <atom:link href="https://gortizji.github.io/authors/a.-sanyal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Catastrophic overfitting is a bug but also a feature</title>
+      <link>https://gortizji.github.io/publication/co_oxford/</link>
+      <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/co_oxford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

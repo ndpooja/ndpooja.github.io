@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Ortiz-Jimenez* on G. Ortiz-Jiménez</title>
+    <link>https://gortizji.github.io/authors/g.-ortiz-jimenez/</link>
+    <description>Recent content in G. Ortiz-Jimenez* on G. Ortiz-Jiménez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2023 12:52:29 +0200</lastBuildDate>
+    
+	    <atom:link href="https://gortizji.github.io/authors/g.-ortiz-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>When does Privileged Information Explain away Label Noise?</title>
+      <link>https://gortizji.github.io/publication/pi_google/</link>
+      <pubDate>Wed, 08 Mar 2023 12:52:29 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/pi_google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Catastrophic overfitting is a bug but also a feature</title>
+      <link>https://gortizji.github.io/publication/co_oxford/</link>
+      <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/co_oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRIME: A few primitives can boost robustness to common corruptions</title>
+      <link>https://gortizji.github.io/publication/prime_2021/</link>
+      <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/prime_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the benefits of knowledge distillation for adversarial robustness</title>
+      <link>https://gortizji.github.io/publication/knowledge_distillation/</link>
+      <pubDate>Wed, 13 Apr 2022 12:52:29 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/knowledge_distillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A structured dictionary perspective on implicit neural representations</title>
+      <link>https://gortizji.github.io/publication/inr_dictionaries/</link>
+      <pubDate>Mon, 06 Dec 2021 12:52:29 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/inr_dictionaries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What can linearized neural networks actually say about generalization?</title>
+      <link>https://gortizji.github.io/publication/linearized_nets_neurips_2021/</link>
+      <pubDate>Tue, 28 Sep 2021 12:22:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/linearized_nets_neurips_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A neural anisotropic view of underspecification in deep learning</title>
+      <link>https://gortizji.github.io/publication/robustml_iclr_2021/</link>
+      <pubDate>Wed, 05 May 2021 17:52:29 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/robustml_iclr_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Anisotropy Directions</title>
+      <link>https://gortizji.github.io/publication/neural-anisotropy/</link>
+      <pubDate>Mon, 07 Dec 2020 12:20:44 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/neural-anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hold me tight! Influence of discriminative features on deep network boundaries</title>
+      <link>https://gortizji.github.io/publication/hold_me_tight/</link>
+      <pubDate>Sun, 06 Dec 2020 17:50:15 +0100</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/hold_me_tight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimism in the Face of Adversity: Understanding and Improving Deep Learning through Adversarial Robustness</title>
+      <link>https://gortizji.github.io/publication/proc_ieee2020/</link>
+      <pubDate>Wed, 21 Oct 2020 09:20:42 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/proc_ieee2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redundant features can hurt robustness to distribution shift</title>
+      <link>https://gortizji.github.io/publication/udl_2020/</link>
+      <pubDate>Sun, 05 Jul 2020 17:52:29 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/udl_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Choice of Graph Neural Network Architectures</title>
+      <link>https://gortizji.github.io/publication/icassp_gnn/</link>
+      <pubDate>Fri, 01 May 2020 16:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/icassp_gnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward-Backward Splitting for Optimal Transport based Problems</title>
+      <link>https://gortizji.github.io/publication/icassp_cdot/</link>
+      <pubDate>Fri, 01 May 2020 15:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/icassp_cdot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CDOT: Continuous Domain Adaptation using Optimal Transport</title>
+      <link>https://gortizji.github.io/publication/otml_2019/</link>
+      <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/otml_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Sampling For Inverse Problems with Tensors</title>
+      <link>https://gortizji.github.io/publication/tsp_2019/</link>
+      <pubDate>Thu, 09 May 2019 15:40:08 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/tsp_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling and Reconstruction of Signals on Product Graphs</title>
+      <link>https://gortizji.github.io/publication/globalsip_2018/</link>
+      <pubDate>Fri, 09 Nov 2018 15:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/globalsip_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidomain Graph Signal Processing</title>
+      <link>https://gortizji.github.io/publication/msc_thesis/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/msc_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Framework for a 3-D High-Resolution Imaging Radar at 300 GHz with a Scattering Model Based on Rendering Techniques</title>
+      <link>https://gortizji.github.io/publication/thz_2018/</link>
+      <pubDate>Sun, 09 Jul 2017 15:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/thz_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

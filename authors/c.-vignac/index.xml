@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Vignac on G. Ortiz-Jiménez</title>
+    <link>https://gortizji.github.io/authors/c.-vignac/</link>
+    <description>Recent content in C. Vignac on G. Ortiz-Jiménez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 16:46:53 +0200</lastBuildDate>
+    
+	    <atom:link href="https://gortizji.github.io/authors/c.-vignac/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Choice of Graph Neural Network Architectures</title>
+      <link>https://gortizji.github.io/publication/icassp_gnn/</link>
+      <pubDate>Fri, 01 May 2020 16:46:53 +0200</pubDate>
+      
+      <guid>https://gortizji.github.io/publication/icassp_gnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
