@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A. Modas* on G. Ortiz-Jiménez</title>
-    <link>https://gortizji.github.io/authors/a.-modas/</link>
-    <description>Recent content in A. Modas* on G. Ortiz-Jiménez</description>
+    <title>A. Modas* on K. Pooja</title>
+    <link>https://ndpooja.github.io/authors/a.-modas/</link>
+    <description>Recent content in A. Modas* on K. Pooja</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jun 2022 12:22:44 +0200</lastBuildDate>
     
-	    <atom:link href="https://gortizji.github.io/authors/a.-modas/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ndpooja.github.io/authors/a.-modas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PRIME: A few primitives can boost robustness to common corruptions</title>
-      <link>https://gortizji.github.io/publication/prime_2021/</link>
+      <link>https://ndpooja.github.io/publication/prime_2021/</link>
       <pubDate>Mon, 27 Jun 2022 12:22:44 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/prime_2021/</guid>
+      <guid>https://ndpooja.github.io/publication/prime_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A neural anisotropic view of underspecification in deep learning</title>
-      <link>https://gortizji.github.io/publication/robustml_iclr_2021/</link>
+      <link>https://ndpooja.github.io/publication/robustml_iclr_2021/</link>
       <pubDate>Wed, 05 May 2021 17:52:29 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/robustml_iclr_2021/</guid>
+      <guid>https://ndpooja.github.io/publication/robustml_iclr_2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Anisotropy Directions</title>
-      <link>https://gortizji.github.io/publication/neural-anisotropy/</link>
+      <link>https://ndpooja.github.io/publication/neural-anisotropy/</link>
       <pubDate>Mon, 07 Dec 2020 12:20:44 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/neural-anisotropy/</guid>
+      <guid>https://ndpooja.github.io/publication/neural-anisotropy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hold me tight! Influence of discriminative features on deep network boundaries</title>
-      <link>https://gortizji.github.io/publication/hold_me_tight/</link>
+      <link>https://ndpooja.github.io/publication/hold_me_tight/</link>
       <pubDate>Sun, 06 Dec 2020 17:50:15 +0100</pubDate>
       
-      <guid>https://gortizji.github.io/publication/hold_me_tight/</guid>
+      <guid>https://ndpooja.github.io/publication/hold_me_tight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimism in the Face of Adversity: Understanding and Improving Deep Learning through Adversarial Robustness</title>
-      <link>https://gortizji.github.io/publication/proc_ieee2020/</link>
+      <link>https://ndpooja.github.io/publication/proc_ieee2020/</link>
       <pubDate>Wed, 21 Oct 2020 09:20:42 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/proc_ieee2020/</guid>
+      <guid>https://ndpooja.github.io/publication/proc_ieee2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redundant features can hurt robustness to distribution shift</title>
-      <link>https://gortizji.github.io/publication/udl_2020/</link>
+      <link>https://ndpooja.github.io/publication/udl_2020/</link>
       <pubDate>Sun, 05 Jul 2020 17:52:29 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/udl_2020/</guid>
+      <guid>https://ndpooja.github.io/publication/udl_2020/</guid>
       <description></description>
     </item>
     

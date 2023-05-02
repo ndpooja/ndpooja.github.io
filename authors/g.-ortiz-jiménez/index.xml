@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. Ortiz-Jiménez on G. Ortiz Jiménez</title>
-    <link>https://gortizji.github.io/authors/g.-ortiz-jim%C3%A9nez/</link>
-    <description>Recent content in G. Ortiz-Jiménez on G. Ortiz Jiménez</description>
+    <title>K. Pooja on G. Ortiz Jiménez</title>
+    <link>https://ndpooja.github.io/authors/g.-ortiz-jim%C3%A9nez/</link>
+    <description>Recent content in K. Pooja on G. Ortiz Jiménez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Dec 2019 15:40:08 +0200</lastBuildDate>
     
-	    <atom:link href="https://gortizji.github.io/authors/g.-ortiz-jim%C3%A9nez/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ndpooja.github.io/authors/g.-ortiz-jim%C3%A9nez/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CDOT: Continuous Domain Adaptation using Optimal Transport</title>
-      <link>https://gortizji.github.io/publication/otml_2019/</link>
+      <link>https://ndpooja.github.io/publication/otml_2019/</link>
       <pubDate>Fri, 13 Dec 2019 15:40:08 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/otml_2019/</guid>
+      <guid>https://ndpooja.github.io/publication/otml_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse Sampling For Inverse Problems with Tensors</title>
-      <link>https://gortizji.github.io/publication/tsp_2019/</link>
+      <link>https://ndpooja.github.io/publication/tsp_2019/</link>
       <pubDate>Thu, 09 May 2019 15:40:08 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/tsp_2019/</guid>
+      <guid>https://ndpooja.github.io/publication/tsp_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sampling and Reconstruction of Signals on Product Graphs</title>
-      <link>https://gortizji.github.io/publication/globalsip_2018/</link>
+      <link>https://ndpooja.github.io/publication/globalsip_2018/</link>
       <pubDate>Fri, 09 Nov 2018 15:46:53 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/globalsip_2018/</guid>
+      <guid>https://ndpooja.github.io/publication/globalsip_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multidomain Graph Signal Processing</title>
-      <link>https://gortizji.github.io/publication/msc_thesis/</link>
+      <link>https://ndpooja.github.io/publication/msc_thesis/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://gortizji.github.io/publication/msc_thesis/</guid>
+      <guid>https://ndpooja.github.io/publication/msc_thesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simulation Framework for a 3-D High-Resolution Imaging Radar at 300 GHz with a Scattering Model Based on Rendering Techniques</title>
-      <link>https://gortizji.github.io/publication/thz_2018/</link>
+      <link>https://ndpooja.github.io/publication/thz_2018/</link>
       <pubDate>Sun, 09 Jul 2017 15:46:53 +0200</pubDate>
       
-      <guid>https://gortizji.github.io/publication/thz_2018/</guid>
+      <guid>https://ndpooja.github.io/publication/thz_2018/</guid>
       <description></description>
     </item>
     
