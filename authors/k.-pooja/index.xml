@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L. A. Ubeda-Medina on K. Pooja</title>
-    <link>https://ndpooja.github.io/authors/l.-a.-ubeda-medina/</link>
-    <description>Recent content in L. A. Ubeda-Medina on K. Pooja</description>
+    <title>K. Pooja on K. Pooja</title>
+    <link>https://ndpooja.github.io/authors/k.-pooja/</link>
+    <description>Recent content in K. Pooja on K. Pooja</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jul 2017 15:46:53 +0200</lastBuildDate>
     
-	    <atom:link href="https://ndpooja.github.io/authors/l.-a.-ubeda-medina/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ndpooja.github.io/authors/k.-pooja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Simulation Framework for a 3-D High-Resolution Imaging Radar at 300 GHz with a Scattering Model Based on Rendering Techniques</title>
-      <link>https://ndpooja.github.io/publication/thz_2018/</link>
-      <pubDate>Sun, 09 Jul 2017 15:46:53 +0200</pubDate>
+      <title>Multi-scale dilated residual convolutional neural network for hyperspectral image classification</title>
+      <link>https://ndpooja.github.io/publication/mdrcnn_whispers2019/</link>
+      <pubDate>Thu, 05 Dec 2019 12:22:44 +0200</pubDate>
       
-      <guid>https://ndpooja.github.io/publication/thz_2018/</guid>
+      <guid>https://ndpooja.github.io/publication/mdrcnn_whispers2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC-PDNET: Deep unrolled neural network for multi-contrast mr image reconstruction from undersampled k-space data</title>
+      <link>https://ndpooja.github.io/publication/mcpdnet_isbi2022/</link>
+      <pubDate>Tue, 26 Apr 2022 12:52:29 +0200</pubDate>
+      
+      <guid>https://ndpooja.github.io/publication/mcpdnet_isbi2022/</guid>
       <description></description>
     </item>
     
