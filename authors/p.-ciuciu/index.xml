@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Ciuciu on K. Pooja</title>
+    <link>https://ndpooja.github.io/authors/p.-ciuciu/</link>
+    <description>Recent content in P. Ciuciu on K. Pooja</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2022 12:52:29 +0200</lastBuildDate>
+    
+	    <atom:link href="https://ndpooja.github.io/authors/p.-ciuciu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MC-PDNET: Deep unrolled neural network for multi-contrast mr image reconstruction from undersampled k-space data</title>
+      <link>https://ndpooja.github.io/publication/mcpdnet_isbi2022/</link>
+      <pubDate>Tue, 26 Apr 2022 12:52:29 +0200</pubDate>
+      
+      <guid>https://ndpooja.github.io/publication/mcpdnet_isbi2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
