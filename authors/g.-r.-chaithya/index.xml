@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>G. R. Chaithya on K. Pooja</title>
+    <title>Chaithya G. R. on Kumari Pooja</title>
     <link>https://ndpooja.github.io/authors/g.-chaithya/</link>
-    <description>Recent content in G. R. Chaithya on K. Pooja</description>
+    <description>Recent content in Chaithya G. R. on Kumari Pooja</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Apr 2022 12:52:29 +0200</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>MC-PDNET: Deep unrolled neural network for multi-contrast mr image reconstruction from undersampled k-space data</title>
+      <title>MC-PDNet: Deep unrolled neural network for multi-contrast mr image reconstruction from undersampled k-space data</title>
       <link>https://ndpooja.github.io/publication/mcpdnet_isbi2022/</link>
       <pubDate>Tue, 26 Apr 2022 12:52:29 +0200</pubDate>
       
